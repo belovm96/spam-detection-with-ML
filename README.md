@@ -11,7 +11,7 @@ In this project, I explore email spam and not spam data and perform ML modeling 
 * Analyzed the performance of each classifier using confusion Matrix, precision and recall metrics, and provided some discussion on the final classification results for each machine learning model.
 
 ## Libraries & Tools:
-**Programming Language:** Python
+**Programming Language:** Python 3.7
 
 **Libraries:** Pandas, NLTK, Scikit-learn, pyLDAvis, Matplotlib, Seaborn
 
