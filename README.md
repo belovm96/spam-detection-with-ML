@@ -7,6 +7,7 @@ In this project, I explore email spam and not spam data and perform ML modeling 
 * Utilized TF-IDF & Bag-of-words approaches to:
 
    a) encode the email data such that it can be used for ML modeling.
+   
    b) come up with top 5 most prevalent topics in spam and non-spam emails via Latent Dirichlet Allocation modeling and Non-negative Matrix Factorization algorithm.
 * Built SVM, Logistic Regression, Random Forest, and Naive Bayes classifiers for spam detection and used grid search to optimize these classifiers' performance.
 * Analyzed the performance of each classifier using confusion Matrix, precision and recall metrics, and provided some discussion on the final classification results for each machine learning model.
