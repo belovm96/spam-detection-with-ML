@@ -10,3 +10,6 @@ In this project, I explore email spam and not spam data and perform ML modeling 
     2. Come up with top 5 most prevalent topics in spam and non-spam emails via Latent Dirichlet Allocation modeling and Non-negative Matrix Factorization algorithm.
 * Built SVM, Logistic Regression, Random Forest, and Naive Bayes classifiers for spam detection and used grid search to optimize these classifiers' performance.
 * Analyzed the performance of each classifier using confusion Matrix, precision and recall metrics, and provided some discussion on the final classification results for each machine learning model.
+
+### Credits to:
+Kamil Mysiak and his Towards Data Science [article](https://towardsdatascience.com/nlp-part-3-exploratory-data-analysis-of-text-data-1caa8ab3f79d) that I used as a baseline for my EDA.
