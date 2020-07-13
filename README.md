@@ -15,5 +15,5 @@ In this project, I explore email spam and not spam data and perform ML modeling 
 
 **Libraries:** Pandas, NLTK, Scikit-learn, pyLDAvis, Matplotlib, Seaborn
 
-### Credits to:
+### Credit to:
 Kamil Mysiak and his Towards Data Science [article](https://towardsdatascience.com/nlp-part-3-exploratory-data-analysis-of-text-data-1caa8ab3f79d) that I used as a baseline for my EDA.
