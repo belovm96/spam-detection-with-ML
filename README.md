@@ -1,4 +1,4 @@
-# # Spam Detection with Machine Learning
+## Spam Detection with Machine Learning
 In this project, I explore email spam and not spam data and perform ML modeling for spam - not spam text classification. I was able to achieve 96% spam detection accuracy with SVM algorithm.
 
 # Project Recap:
