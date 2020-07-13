@@ -5,8 +5,8 @@ In this project, I explore email spam and not spam data and perform ML modeling 
 * Created a data preprocessing script - utilized stemming and lemmatization methods for Enron1 dataset normalization.
 * Performed EDA on the preprocessed data and uncovered some insights that led to further dataset cleaning.
 * Utilized TF-IDF & Bag-of-words approaches to:
-      i) encode the email data such that it can be used for ML modeling
-      ii) come up with top 5 most prevalent topics in spam and non-spam emails via Latent Dirichlet Allocation modeling and Non-negative Matrix Factorization algorithm
+      1) encode the email data such that it can be used for ML modeling
+      2) come up with top 5 most prevalent topics in spam and non-spam emails via Latent Dirichlet Allocation modeling and Non-negative Matrix Factorization algorithm
 * Built SVM, Logistic Regression, Random Forest, and Naive Bayes classifiers for spam detection and used grid search to optimize these classifiers' performance.
 * Analyzed the performance of each classifier using confusion Matrix, precision and recall metrics, and provided some discussion on the final classification results for each machine learning model.
 
