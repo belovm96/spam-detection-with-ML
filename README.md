@@ -11,5 +11,9 @@ In this project, I explore email spam and not spam data and perform ML modeling 
 * Built SVM, Logistic Regression, Random Forest, and Naive Bayes classifiers for spam detection and used grid search to optimize these classifiers' performance.
 * Analyzed the performance of each classifier using confusion Matrix, precision and recall metrics, and provided some discussion on the final classification results for each machine learning model.
 
+## Libraries & Tools Used:
+**Programming Language:** Python
+**Libraries:** Pandas, NLTK, Scikit-learn, pyLDAvis, Matplotlib, Seaborn
+
 ### Credits to:
 Kamil Mysiak and his Towards Data Science [article](https://towardsdatascience.com/nlp-part-3-exploratory-data-analysis-of-text-data-1caa8ab3f79d) that I used as a baseline for my EDA.
