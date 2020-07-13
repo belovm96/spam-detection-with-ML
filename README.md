@@ -13,6 +13,7 @@ In this project, I explore email spam and not spam data and perform ML modeling 
 
 ## Libraries & Tools Used:
 **Programming Language:** Python
+
 **Libraries:** Pandas, NLTK, Scikit-learn, pyLDAvis, Matplotlib, Seaborn
 
 ### Credits to:
