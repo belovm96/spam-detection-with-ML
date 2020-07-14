@@ -12,6 +12,8 @@ In this project, I explore email spam and non-spam data and perform ML modeling 
 
 ## Visualization Highlights
 ![Spam Emails WordCloud](https://github.com/belovm96/spam-detection-with-ML/blob/master/images/spamcloud.png)
+![Spam Emails Word Frequency Plot](https://github.com/belovm96/spam-detection-with-ML/blob/master/images/spamfreq.png)
+
 
 ## Libraries & Tools
 **Programming Language:** Python 3.7
