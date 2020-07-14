@@ -10,10 +10,10 @@ In this project, I explore email spam and non-spam data and perform ML modeling 
 * Built SVM, Logistic Regression, Random Forest, and Naive Bayes classifiers for spam detection and used grid search to optimize these classifiers' performance.
 * Analyzed the performance of each classifier using confusion matrix, precision and recall metrics, and provided some discussion on the final classification results for each machine learning model.
 
-## Visualization Highlights
+## Visualization Highlights & Final Results
 ![Spam Emails WordCloud](https://github.com/belovm96/spam-detection-with-ML/blob/master/images/spamcloud.png)
 ![Spam Emails Word Frequency Plot](https://github.com/belovm96/spam-detection-with-ML/blob/master/images/spamfreq.png)
-
+![Confusion Matrices](https://github.com/belovm96/spam-detection-with-ML/blob/master/images/cm.png)
 
 ## Libraries & Tools
 **Programming Language:** Python 3.7
